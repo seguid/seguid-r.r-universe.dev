@@ -2,7 +2,7 @@
 
 This GitHub repository configures how the SEGUID [R] packages on
 GitHub are distributed via the [R-universe] package repository at
-<https://seguid-r.r-universe.dev/>.  See also
+<https://seguid.r-universe.dev/>.  See also
 <https://github.com/r-universe/seguid/>.
 
 [R]: https://www.r-project.org/
