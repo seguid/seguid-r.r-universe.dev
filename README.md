@@ -5,4 +5,4 @@ GitHub are distributed via the [R-universe] package repository at
 <https://seguid-r.r-universe.dev/>.
 
 [R]: https://www.r-project.org/
-[R Universe]: https://r-universe.dev/
+[R-universe]: https://r-universe.dev/
